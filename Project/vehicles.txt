@@ -1,4 +1,0 @@
-# Vehicle capacities in kg
-# One vehicle per line
-100
-100
