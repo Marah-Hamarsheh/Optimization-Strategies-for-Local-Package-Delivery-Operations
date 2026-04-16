@@ -9,5 +9,7 @@ Implemented and compared Simulated Annealing and Genetic Algorithm to improve ro
 🛠️ Technologies & Tools:
 
 Python
+
 Simulated Annealing & Genetic Algorithm (metaheuristic optimization)
+
 Matplotlib & Tkinter (for visualization)
