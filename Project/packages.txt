@@ -1,0 +1,8 @@
+# Package information: x y weight priority
+# x,y coordinates [0-100], weight in kg, priority 1-5 (1 is highest)
+50 10 30 1
+70 15 15 2
+80 30 20 3
+60 20 15 4
+65 22 20 2
+70 35 33 3
